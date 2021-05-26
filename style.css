@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color:greenyellow;
+}
+img{
+    border-style:groove;
+    border-width:thick;
+    border-color: black;
+}
+h1{
+font-weight: bolder;
+}
+p{
+font-weight: 600;
+font-size: 20px;
+}
